@@ -1,0 +1,160 @@
+,country,source
+0,Aruba,countries_wb
+8,American Samoa,countries_wb
+15,Benin,countries_wb
+16,Burkina Faso,countries_wb
+20,"Bahamas, The",countries_wb
+21,Bosnia and Herzegovina,countries_wb
+28,Brunei Darussalam,countries_wb
+30,Botswana,countries_wb
+32,Canada,countries_wb
+34,Channel Islands,countries_wb
+36,China,countries_wb
+37,Cote d'Ivoire,countries_wb
+38,Cameroon,countries_wb
+39,"Congo, Dem. Rep.",countries_wb
+40,"Congo, Rep.",countries_wb
+43,Cabo Verde,countries_wb
+47,Cayman Islands,countries_wb
+49,Czechia,countries_wb
+51,Djibouti,countries_wb
+57,"Egypt, Arab Rep.",countries_wb
+65,Faroe Islands,countries_wb
+66,"Micronesia, Fed. Sts.",countries_wb
+67,Gabon,countries_wb
+68,United Kingdom,countries_wb
+71,Gibraltar,countries_wb
+72,Guinea,countries_wb
+73,"Gambia, The",countries_wb
+75,Equatorial Guinea,countries_wb
+78,Greenland,countries_wb
+80,Guam,countries_wb
+82,"Hong Kong SAR, China",countries_wb
+87,Indonesia,countries_wb
+88,Isle of Man,countries_wb
+90,Ireland,countries_wb
+91,"Iran, Islamic Rep.",countries_wb
+101,Kyrgyz Republic,countries_wb
+104,St. Kitts and Nevis,countries_wb
+105,"Korea, Rep.",countries_wb
+107,Lao PDR,countries_wb
+118,"Macao SAR, China",countries_wb
+119,St. Martin (French part),countries_wb
+124,Maldives,countries_wb
+126,Marshall Islands,countries_wb
+127,North Macedonia,countries_wb
+128,Mali,countries_wb
+130,Myanmar,countries_wb
+131,Montenegro,countries_wb
+132,Mongolia,countries_wb
+133,Northern Mariana Islands,countries_wb
+141,Niger,countries_wb
+144,Netherlands,countries_wb
+151,Panama,countries_wb
+154,Palau,countries_wb
+158,"Korea, Dem. People's Rep.",countries_wb
+161,West Bank and Gaza,countries_wb
+165,Russian Federation,countries_wb
+168,Sudan,countries_wb
+175,Somalia,countries_wb
+176,Serbia,countries_wb
+177,South Sudan,countries_wb
+179,Suriname,countries_wb
+183,Eswatini,countries_wb
+184,Sint Maarten (Dutch part),countries_wb
+186,Syrian Arab Republic,countries_wb
+187,Turks and Caicos Islands,countries_wb
+188,Chad,countries_wb
+189,Togo,countries_wb
+193,Timor-Leste,countries_wb
+195,Trinidad and Tobago,countries_wb
+197,Turkiye,countries_wb
+199,Tanzania,countries_wb
+203,United States,countries_wb
+206,"Venezuela, RB",countries_wb
+207,British Virgin Islands,countries_wb
+208,Virgin Islands (U.S.),countries_wb
+209,Viet Nam,countries_wb
+211,Samoa,countries_wb
+212,Kosovo,countries_wb
+213,"Yemen, Rep.",countries_wb
+214,South Africa,countries_wb
+226,"Bahama Islands, The",countries_ircc
+233,"Benin, Republic of",countries_ircc
+236,Bosnia-Herzegovina,countries_ircc
+237,"Botswana, Republic of",countries_ircc
+240,Burkina-Faso,countries_ircc
+243,"Cameroon, Federal Republic of",countries_ircc
+245,"Chad, Republic of",countries_ircc
+247,"China, People's Republic of",countries_ircc
+250,"Congo, Democratic Republic of the",countries_ircc
+251,"Congo, People's Republic of the",countries_ircc
+256,Czech Republic,countries_ircc
+258,"Djibouti, Republic of",countries_ircc
+262,Egypt,countries_ircc
+269,Gambia,countries_ircc
+276,"Guinea, Republic of",countries_ircc
+280,Hong Kong SAR,countries_ircc
+284,"Indonesia, Republic of",countries_ircc
+285,Iran,countries_ircc
+287,"Ireland, Republic of",countries_ircc
+290,"Ivory Coast, Republic of",countries_ircc
+296,"Korea, Republic of",countries_ircc
+297,"Kosovo, Republic of",countries_ircc
+298,Kyrgyzstan,countries_ircc
+299,Laos,countries_ircc
+305,Macau SAR,countries_ircc
+306,Macedonia,countries_ircc
+309,"Maldives, Republic of",countries_ircc
+310,"Mali, Republic of",countries_ircc
+315,"Mongolia, People's Republic of",countries_ircc
+316,"Montenegro, Republic of",countries_ircc
+318,Myanmar (Burma),countries_ircc
+321,"Netherlands, The",countries_ircc
+324,"Niger, Republic of the",countries_ircc
+328,Palestinian Authority (Gaza/West Bank),countries_ircc
+329,"Panama, Republic of",countries_ircc
+336,Russia,countries_ircc
+338,"Samoa, Independent State of",countries_ircc
+341,"Serbia, Republic of",countries_ircc
+346,"Somalia, Democratic Republic of",countries_ircc
+347,"South Africa, Republic of",countries_ircc
+352,Stateless,countries_ircc
+353,"Sudan, Democratic Republic of",countries_ircc
+354,Swaziland,countries_ircc
+357,Syria,countries_ircc
+358,Taiwan,countries_ircc
+360,"Tanzania, United Republic of",countries_ircc
+362,"Togo, Republic of",countries_ircc
+363,"Trinidad and Tobago, Republic of",countries_ircc
+365,Turkey,countries_ircc
+368,United Kingdom and Overseas Territories,countries_ircc
+369,United States of America,countries_ircc
+372,Venezuela,countries_ircc
+373,Vietnam,countries_ircc
+374,Yemen,countries_ircc
+378,Gabon Republic,countries_ircc
+384,"South Sudan, Republic of",countries_ircc
+388,Other,countries_ircc
+389,St. Kitts-Nevis,countries_ircc
+392,"Korea, People's Democratic Republic of",countries_ircc
+393,Surinam,countries_ircc
+395,Brunei,countries_ircc
+397,Cape Verde Islands,countries_ircc
+399,"Samoa, American",countries_ircc
+405,"Equatorial Guinea, Republic of",countries_ircc
+406,"East Timor, Democratic Republic of",countries_ircc
+407,Western Sahara,countries_ircc
+408,Nevis,countries_ircc
+411,"Palau, Republic of",countries_ircc
+412,"Marshall Islands, Republic of the",countries_ircc
+414,"Netherlands Antilles, The",countries_ircc
+415,Country not stated,countries_ircc
+416,"Virgin Islands, British",countries_ircc
+418,"Northern Mariana Islands, Commonwealth of the",countries_ircc
+421,"Micronesia, Federated States of",countries_ircc
+423,Holy See,countries_ircc
+424,Azores,countries_ircc
+427,Guadeloupe,countries_ircc
+431,Reunion,countries_ircc
+432,Sint-Maarten,countries_ircc
